@@ -1,0 +1,28 @@
+{
+  "pet store": [
+    {
+    "item": "cat food",
+    "price": 10
+    },
+    {
+    "item": "cat toys",
+    "price": 5
+    },
+    {
+    "item": "cat tree",
+    "price": 100
+    }
+  ],
+  "grocery store": [
+    {
+      "item": "candy",
+      "price": 3
+    }
+  ],
+  "office supply store": [
+    {
+      "item": "notebook",
+      "price": 3
+    }
+  ]
+}
